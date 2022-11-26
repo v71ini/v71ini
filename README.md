@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @v71ini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-v71ini/v71ini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vini Sharma 
+- 👀 I’m interested in making Apps and Websites 
+- 🌱 I’m currently persuing BTech in CSE
+Linked in  www.linkedin.com/in/vini-sharma-156b07241
+I m PRE- FINAL Year student currently making projects on web developments and Hybrid App Develepmont With Flutter
